@@ -12,10 +12,16 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::group(['namespace'=>'Auth','prefix'=>'account'],function (){
+    Route::get('register','RegisterController@getFormRegister')->name('get.register');
+    Route::post('register','RegisterController@postFormRegister');
 
-//Route::get('/', function () {
-//    return view('welcome');
-//});
+    Route::get('login','LoginController@getFormLogin')->name('get.login');
+    Route::post('login','LoginController@postFormLogin');
+
+    Route::get('logout','LoginController@getLogout')->name('get.logout');
+});
+
 Route::group(['prefix' => 'admin','namespace'=>'Admin'], function(){
     Route::get('/',function (){
         return view('admin.dashboard');
@@ -82,6 +88,9 @@ Route::group(['prefix' => 'admin','namespace'=>'Admin'], function(){
         Route::get('status/{id}', 'AdminProductController@status')->name('admin.product.status');
         Route::get('delete/{id}', 'AdminProductController@destroy')->name('admin.product.delete');
     });
+    Route::group(['prefix'=>'transaction'],function (){
+       Route::get('','AdminTransaction@index')->name('get.transaction');
+    });
 
 });
 
@@ -89,4 +98,20 @@ Route::group(['namespace'=>'Frontend'],function (){
     Route::get('','HomeController@index')->name('home');
     Route::get('san-pham','ProductController@index')->name('get.product.list');
     Route::get('san-pham/{slug}/{id}','ProductDetailController@detail')->name('get.detail.product.list');
+    Route::get('don-hang','CartController@index')->name('get.cart');
+    Route::get('/add-cart/{id}', 'CartController@AddCart')->name('add.cart');
+    Route::get('/delete-item/{id}', 'CartController@DeleteItemCart');
+    Route::get('/list-cart', 'CartController@ViewListCart')->name('list.cart');
+    Route::get('/delete-list-cart/{id}', 'CartController@DeleteItemListCart');
+    Route::get('/update-list-cart/{id}', 'CartController@UpdateCart');
+    Route::get('/update-list-cart-down/{id}', 'CartController@UpdateCartDownAJax');
+    Route::get('/destroy-cart', 'CartController@destroy');
+    Route::get('/thanh-toan', 'CartController@payment')->name('get.payment');
+    Route::post('/thanh-toan', 'CartController@postPayment');
 });
+
+//Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('get.home');
+
+

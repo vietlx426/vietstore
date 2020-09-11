@@ -50,7 +50,7 @@
                                         @foreach($products as $product)
                                     <div class="col-sm-4 col-xs-12 padding-none col-fix20">
                                         <div class="product-row">
-                                            <a href="/products/gvn-titan-10-m">
+                                            <a href="">
                                             </a><div class="product-row-img"><a href="{{route('get.detail.product.list',[$product->pro_slug,$product->id])}}">
 
 

@@ -1,403 +1,68 @@
+<!DOCTYPE html>
 
-<html lang="vi">
-<!--<![endif]-->
+<html lang="vi" prefix="og: http://ogp.me/ns#" class="loading-site no-js">
 
-<!-- Mirrored from gearvn.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Sep 2020 18:03:01 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- /Added by HTTrack -->
 <head>
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
-    <title>
-
-        GEARVN - Máy Tính Cao Cấp & Thiết Bị Chơi Game hàng đầu Việt Nam &ndash; GEARVN.COM
-
-    </title>
-
-
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
+    <title>Demo</title>
+    <link rel="stylesheet" href="{{asset('public/css/110d1ef3a7161f27dab84695c5e98857.css')}}" media="all" data-minify="1" />
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <link rel="canonical" href="index.html" />
-    <script src="{{asset('public/frontend/css/hstatic.net/0/0/global/design/js/jquery.min.1.11.0.js')}}"></script>
-    <script src="{{asset('public/frontend/css/hstatic.net/0/0/global/option_selection.js')}}"></script>
-    <script src="{{asset('public/frontend/css/hstatic.net/0/0/global/api.jquery.js')}}"></script>
-    <script src="{{asset('public/frontend/css/hstatic.net/0/0/global/customer_area.js')}}"></script>
-    <script src="{{asset('public/frontend/css/hstatic.net/0/0/global/haravan_common.js')}}"></script>
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/generalf4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/jquery-uif4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/stylesf4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bootstrapf4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/superfishf4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/owl.carouself4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/font-awesomef4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-    <link href='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/header_newf4ea.css?v=14250')}}' rel='stylesheet' type='text/css'  media='all'  />
-
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/jquery-migrate.minf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/tabs-statef4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/captionf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/jquery.ui.core.minf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/jquery-uif4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bootstrapf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/superfishf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/owl.carousel.minf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/jquery.sticky-kit.minf4ea.js?v=14250')}}' type='text/javascript'></script>
-    <script src='{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/cokief4ea.js?v=14250')}}' type='text/javascript'></script>
-    <link rel="stylesheet" type="text/css" href="{{('public/frontend/css/hstatic.net/0/global/design/member/fonts/roboto.css')}}">
 
 
+    <!-- /Rank Math WordPress SEO plugin -->
+    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='http://www.google-analytics.com/' />
+    <link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
+    <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
+    <style id='woocommerce-inline-inline-css' type='text/css'>
+        .woocommerce form .form-row .required { visibility: visible; }
+    </style>
+    <link rel='stylesheet' id='megamenu-css'  href='{{asset('public/css/style.css')}}' type='text/css' media='all' />
+    <style id='yith_wcbm_badge_style-inline-css' type='text/css'>
+        .yith-wcbm-badge-24863{ top: 0px;bottom: auto;left: auto;right: 0px; opacity: 1; }.yith-wcbm-badge-24863 .yith-wcbm-badge__wrap{ -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }.yith-wcbm-badge-25606{ top: 0px;bottom: auto;left: auto;right: 0px; opacity: 1; }.yith-wcbm-badge-25606 .yith-wcbm-badge__wrap{ -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }.yith-wcbm-badge-12005{ top: 0px;bottom: auto;left: auto;right: 0px; opacity: 1; }.yith-wcbm-badge-12005 .yith-wcbm-badge__wrap{ -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }.yith-wcbm-badge-867{ top: 0px;bottom: auto;left: auto;right: 0px; opacity: 1; }.yith-wcbm-badge-867 .yith-wcbm-badge__wrap{ -ms-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); -webkit-transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
+    </style>
+    <link rel="https://api.w.org/" href="wp-json/index.html" />
+    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/6293.json" />
+    <link rel='shortlink' href='index.html' />
+    <link rel="preload" as="font" href="wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2" crossorigin>
+    <style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style>
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="https://tandoanh.vn/wp-content/themes/flatsome/assets/css/ie-fallback.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://tandoanh.vn/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->
+    <link href="https://www.google-analytics.com/" crossorigin="" rel="preconnect">
+    <link href="https://www.googletagmanager.com/" crossorigin="" rel="preconnect">
+    <noscript>
+        <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
+    </noscript>
+    <link rel="icon" href="wp-content/uploads/2019/07/cropped-Logo-TD-Square-32x32.png" sizes="32x32" />
+    <link rel="icon" href="wp-content/uploads/2019/07/cropped-Logo-TD-Square-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="wp-content/uploads/2019/07/cropped-Logo-TD-Square-180x180.png" />
 
-
-
-
-
-
-
-
-    <meta content="INDEX,FOLLOW" name="robots" />
-    <meta charset="utf-8" />
-    <meta property="fb:app_id" content="415943092284168" />
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=0' name='viewport' />
-    <meta name="description" content="- GEARVN - Cung cấp PC Hi End và Gaming Gear Chuyên Nghiệp- Địa Chỉ : 78-80 Hoàng Hoa Thám, Phường 12, Quận Tân Bình- Website : www.gearvn.com- Hotline : 0868 005 001" />
-    <meta property="og:image" content=>
-    <meta name="ahrefs-site-verification" content="ee09552be84fb02e958719300f7e1624c618aa98ccf6b8139fd4a32150253095">
-
-
-
+    <meta name="msapplication-TileImage" content="https://tandoanh.vn/wp-content/uploads/2019/07/cropped-Logo-TD-Square-270x270.png" />
+    <style id="custom-css" type="text/css">/* Custom CSS *//*************** ADD CUSTOM CSS HERE. ***************/ span.widget-title{color:#125c9e} .widget .is-divider{margin-top: 2px;margin-bottom:6px;background-color: #125c9e;max-width: 300px;} ul.product_list_widget li a:not(.remove){font-size:0.9em} ul.menu>li>a, ul.menu>li>span:first-child, .widget>ul>li>a, .widget>ul>li>span:first-child{font-size:0.9em} button.single_add_to_cart_button.button.alt, input.minus.button.is-form, input.plus.button.is-form, .form-flat button, .form-flat input{border-radius:5px} .nav > li > a{border-radius: 5px 5px 0px 0px;} .heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a {font-family:Arial,Helvetica,sans-serif; !important} body{font-family: Arial,Helvetica,sans-serif; !important } h1,h2,h3,h4,h5,h6{font-family: Arial,Helvetica,sans-serif !important;font-weight:500 !important}h1{font-size:1.6em}h2{font-size:1.5em}h3{font-size:1.3em}h4{font-size:1.2em}h5,h6{font-size:1.1em} .col-inner{border-radius:5px;} p:empty {display: none;} h1.product-title.product_title.entry-title {color: #fa4d0f;font-weight: bold !important;} .message-container.container.success-color.medium-text-center{color:red} .badge-inner.callout-new-bg.is-small.new-bubble{text-transform:capitalize;background:red} .box-image .out-of-stock-label{background:red;color:#fff} .price del span.woocommerce-Price-amount.amount{font-weight:700;font-size:1.1em}del span.amount{opacity:.8} ins span.woocommerce-Price-amount.amount{font-size:1.2em;color:red!important} .badge-inner.secondary.on-sale{background:green} .product_list_widget ins span.woocommerce-Price-amount.amount{font-size:1em} .product_list_widget span.woocommerce-Price-amount{font-size:1em;} .product-small.box span.woocommerce-Price-amount.amount{color:green;font-size:1em} .product-small.box del span.woocommerce-Price-amount.amount{color:black;font-size:1em;text-shadow:none}.vi-wpb-wrapper .woocommerce-product-builder-wrapper .woopb-product .woopb-product-right .cart button{padding:0;} .product-page-price span.woocommerce-Price-amount.amount{color:green;} .price del span.woocommerce-Price-amount.amount {text-shadow:none;color:black;} /*Hiệu ứng Blink icon Khuyến mãi*/ @-webkit-keyframes blinker{from{opacity:1}to{opacity:0}}.yith-wcbm-badge img{width:80%;text-decoration:blink;-webkit-animation-name:blinker;-webkit-animation-duration:.5s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:ease-in-out;-webkit-animation-direction:alternate}.yith-wcbm-badge{top:8px !important;right:8px !important;} .product-small .price-wrapper{text-align:right;padding-bottom:5px;} .badge-circle-inside .badge-inner, .badge-circle .badge-inner{border-radius:5px} .badge.callout.badge-circle{height:1.8em;margin-top:0} .badge{height:1.8em;} .box-text {font-size:13px; font-family:Tahoma;} p.name.product-title{text-align:center} .button{border-radius:5px} .box-image img{border-bottom: 1px solid #eaeaea;} .yith-wcbm-badge img{border:none} .product-small.box .price-wrapper{padding-top:5px;margin-top:5px} .product-small.box .box-text{padding-bottom:.7em !important; padding-left:.7em !important; padding-right:.7em !important;height: 100px;} /*************** Trang Chủ ***************/ .product-list .product-small.box{border-radius:5px;overflow:hidden} span.section-title-main {font-weight: bold;} .row-small>.flickity-viewport>.flickity-slider>.col, .row-small>.col {display:inline-flex;} .box-text h1, .box-text h2, .box-text h3, .box-text h4, .box-text h5, .box-text h6, .box-text a:not(.button){height:50px;text-overflow: ellipsis;overflow: hidden;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 3;font-weight:600;} img.alignnone.wp-image-4392:hover{transform:scale(1.05);overflow:hidden;transition:transform .5s,filter 1.5s ease-in-out;filter:drop-shadow(0 0 10px rgba(0,0,0,.3));} img.alignnone.wp-image-4394:hover{transform:scale(1.05);overflow:hidden;transition:transform .5s,filter 1.5s ease-in-out;filter:drop-shadow(0 0 10px rgba(0,0,0,.3));} div#tuchoncauhinh{border-radius:20px} /*************** Trang Chương Trình Khuyến Mãi ***************/ .tintuc .box-image {border-top-left-radius: 5px;border-top-right-radius: 5px;} .tintuc .col-inner {border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;overflow: hidden;} .tintuc .box-text h5{height:56px} /*************** Product Search ***************/ span.suggestion-post-title{font-size:110%} span.suggestion-post-content{font-size:110%} img.suggestion-post-thumbnail{width:50px !important;height:50px !important;border:1px solid #eaeaea} .autocomplete-suggestion img{border-radius:5px !important;border:1px solid orange} /*************** Product Widget LIST ***************/ .product_list_widget span.woocommerce-Price-amount{font-size: 0.9em!important;color: green;} .product_list_widget ins span.woocommerce-Price-amount.amount{font-size: 0.9em!important} del span.woocommerce-Price-amount{text-shadow: none !important;color: black !important;float:unset!important} .product_list_widget .container-image-and-badge{position:unset} .product_list_widget .yith-wcbm-badge.yith-wcbm-badge-custom{display:none} /*************** AJAX CART LIST ***************/ ul.product_list_widget li a:not(.remove){font-size:0.8em} p.woocommerce-mini-cart__total.total{font-size:0.9em} a.button.wc-forward{font-size:80%} .product_list_widget span.woocommerce-Price-amount{font-size:0.9em} li.woocommerce-mini-cart-item.mini_cart_item .woocommerce-Price-amount{color:black;text-shadow:none} ul.nav-dropdown.nav-dropdown-default{border-radius:10px} p.woocommerce-mini-cart__empty-message{font-size:90%} /*************** MAIN MENU ***************/ #ot-mega-menu #mega-menu-title{font-size: 14px;} #ot-mega-menu #mega-menu-title:after{display:none} #mega-menu-wrap-top_bar_nav{background:#e4cc62} #mega-menu-wrap-top_bar_nav #mega-menu-top_bar_nav > li.mega-menu-tabbed > ul.mega-sub-menu > li.mega-menu-item > ul.mega-sub-menu{left:0} #ot-mega-menu{margin-right:0px} #ot-mega-menu #mega-menu-title{font-size:14px} a.menu-ngang{margin: 10px 0px 10px 20px;font-size: 15px;color: #402d00;} a.menu-ngang:hover{text-decoration: underline;} a.menu-ngang .fa{font-size: 20px;vertical-align: middle;} .flex-col.hide-for-medium.flex-left{width:16.66667%} /*************** PRODUCT CAT ***************/ p.woocommerce-result-count.hide-for-medium{font-size:14px} /*************** Cat PAGE ***************/ .row.category-page-row .row-small>.flickity-viewport>.flickity-slider>.col, .row-small>.col{padding: 0 2px 4px;} .col-inner>.img:not(:last-child), .col>.img:not(:last-child){margin-bottom:4px} /*************** PRODUCT PAGE ***************/ .text-center .quantity, .quantity{margin-right:0.8em} p.price.product-page-price {border: 1px dashed #ba9557;border-radius: 5px;background-color: #efefef;padding: 15px;width: fit-content;} .product-short-description {border: 1px dashed #888888;padding: 10px;margin-bottom: 12px;border-radius:5px;background: white} aligncenter, pre, blockquote, form, figure, p, dl, ul, ol{margin-bottom: 0.5em;} button.single_add_to_cart_button.button.alt{margin-right:5px} p.stock.out-of-stock {font-size: 16px;border: 1px solid red;padding: 10px;border-radius: 5px;background: red;color: white;margin-bottom:2em;text-align: center; text-transform: uppercase;} p.stock.out-of-stock:before{content:"SẢN PHẨM "} .page-title-inner.flex-row.medium-flex-wrap.container{padding-top:unset} .breadcrumbs a{font-weight: bold;color: #775400;} .breadcrumbs .divider{color:#775400;opacity:1} .nav-dropdown .yith-wcbm-badge{display: none;} .product-short-description span{font-size: 100% !important;} .productpage .is-divider {height: 1px;display: block;background-color: #e5e5e5;margin: 0 0 1em 0;width: 100%;max-width: 100%;} li#tab-title-description{display:none} .review-form-inner.has-border{border-color: #0046be;border-radius: 5px;} .comment-form input#submit{border-radius: 5px;background: #0046be;} .review-form-inner.has-border{padding: 15px;} textarea#comment{min-height: 60px;} .pdPolicyWrap {border: 1px dashed #888888;border-radius:5px} .pdPolicyWrap ul.listPolicy {padding: 0;margin: 0;} .pdPolicyWrap ul.listPolicy li.item {display: block;position: relative;border-bottom: 1px dashed #eaeaea;padding: 10px 0px;margin-left: 5px;} .pdPolicyWrap ul.listPolicy li.item .icon {width: 45px;display: inline-block;margin-right: 5px;vertical-align: middle;} .pdPolicyWrap ul.listPolicy li.item .detail {display: inline-block;width: calc(100% - 60px);vertical-align: middle;} .pdPolicyWrap ul.listPolicy li.item .detail h5 {text-transform: uppercase;font-size: 13px;margin-bottom: 5px;font-weight:700 !important;} .pdPolicyWrap ul.listPolicy li.item .detail span {display: block;font-size: 13px;line-height: 1.4;} .related-list .product-small.box {box-shadow: 0 1px 3px -2px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);border-radius: 5px;overflow: hidden;} .related-list .product-small.box:hover {box-shadow: 0 3px 6px -4px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)} h3.product-section-title.container-width.product-section-title-related.pt-half.pb-half.uppercase {display:none;} .related-list .product-section {border:unset} #comments a.btn-reviews-now, .woocommerce #review_form #respond p.form-submit input#submit{background-color:#0046be} span.devvn_num_reviews, .note_review a{color:#0046be} .z-1{-webkit-transform: translate3d(0, 0, 0);} .devvn_cmt_box .qtv{padding:4px 6px; vertical-align:middle;font-size:11px} th:first-child, td:first-child {padding-left: 10px;} .woocommerce-tabs table td { padding:15px;} .woocommerce-tabs table th { padding:15px;} .woocommerce-tabs table th p{ margin-bottom:0em;} .woocommerce-tabs table tr:nth-child(2n+1) {background-color: #f9f9f9;} .woocommerce-tabs table td:first-child{font-weight:bold} /*************** HOME-BANNER ***************/ div#divFLRARight img, div#divFLRALeft img {border-radius:5px} .slider-nav-light .flickity-page-dots .dot{border-color:orange} .home-banner {border-radius:10px;overflow:hidden} .image-banner {border-radius:10px;overflow:hidden} /*************** Page Tittle ***************/ .page-title-inner.container.align-bottom.text-center.flex-row-col.medium-flex-wrap{margin-top:-20px} /*************** Trang Thanh Toán ***************/ span.woocommerce-terms-and-conditions-checkbox-text a:link, a.woocommerce-privacy-policy-link{color:#d26e4b} .coupon button.button.expand{border-radius:0px;} li.woocommerce-order-overview__total.total span.woocommerce-Price-amount.amount{color:red} /*************** Bài Viết ***************/ .page-title-inner.container.flex-row.dark.is-large{min-height:unset !important} .featured-title .page-title-inner{padding-bottom:unset !important} .box-blog-post .is-divider{display:none} /*************** Order Success Page ***************/ ul.wc-bacs-bank-details.order_details.bacs_details{margin-left:2em} /*************** Blog Post TD News ***************/ .devvn-post-col p.post-title.is-large {color: #ffffff;font-size: 1em;font-weight: bold;} .arrow_orange .flickity-prev-next-button svg, .arrow_orange .flickity-prev-next-button .arrow {fill: orange !important;} .devvn-post-col .shade{background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.75) 100%);opacity: 1;} .devvn-post-col .box:hover .shade{background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.9) 100%);opacity: 1;} .col.devvn-post-col.post-item.is-selected{padding: 0 4px 20px;} @media only screen and (max-width: 1100px) { /*************** ADD MOBILE ONLY CSS HERE ***************/ #mega-menu-wrap-top_bar_nav #mega-menu-top_bar_nav > li.mega-menu-tabbed > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-top_bar_nav #mega-menu-top_bar_nav > li.mega-menu-item > a.mega-menu-link {font-size:12px;} } @media only screen and (max-width: 1550px) { div#divFLRARight, div#divFLRALeft{display:none !important}; } @media only screen and (max-width: 1238px) { #wide-nav .flex-row.container{padding-left:0 !important} #mega-menu-wrap-mega_menu #mega-menu-mega_menu li.mega-menu-item a.mega-menu-link:before{display:none} div#mega-menu-title{padding-left:5px !important;padding-right:5px !important} } @media only screen and (min-width: 1024px) and (max-width: 1238px) { .quantity.buttons_added.form-normal , button.single_add_to_cart_button.button.alt {font-size:0.9em; margin-right:0} button.button.buy_now_button {font-size:0.9em !important; width:100px !important;} } @media only screen and (max-width: 878px) { #mega-menu-wrap-mega_menu #mega-menu-mega_menu li.mega-menu-item-has-children > a.mega-menu-link > span.mega-indicator{display:none} } @media only screen and (max-width: 375px) { .product-small.box span.woocommerce-Price-amount.amount{font-size:0.85em !important;} .product-small.box del span.woocommerce-Price-amount.amount{font-size:0.85em !important;} } @media only screen and (max-width: 320px) { .quantity.buttons_added.form-normal , button.single_add_to_cart_button.button.alt {font-size:0.8em !important} button.button.buy_now_button{width:unset !important;font-size:0.8em !important} }/* Custom CSS Tablet */@media (max-width: 849px){/*************** Search Mobile ***************/ .search-name{font-size:16px;color:black} .live-search-results.text-left.z-top{border-radius:5px;background:white;margin-top:15px} span.woocommerce-Price-amount.amount{font-size:16px;color:black;float:right;} .search-price ins span.woocommerce-Price-amount.amount{font-size:16px !important} .autocomplete-suggestion img{width:50px;height:50px;border:1px solid orange;margin-right:0} .autocomplete-suggestion .search-price{display:grid} input#woocommerce-product-search-field-0, i.icon-search{font-size:80% !important} h1.product-title.product_title.entry-title {font-size: 1.2em;} .woocommerce-product-builder-table img{width:50%} .autocomplete-suggestion {display: block;} .autocomplete-suggestion img {float: left; } .autocomplete-suggestion img+.search-name {float: left; width: calc(100% - 50px);} .autocomplete-suggestion .search-price {display: block; clear: both;text-align: right; } .autocomplete-suggestion .search-price del {color: #000; text-decoration: line-through;} span.woocommerce-Price-amount.amount {float: none;} /***AdtoCart và Mua Ngay**/ .text-center .quantity, .quantity {margin-right:0.5em} button.single_add_to_cart_button.button.alt{padding: 0 0.5em} /***Menu Mobile***/ .mobile-sidebar-levels-3  .nav-vertical li li.menu-item-has-children>a{font-size:1em !important}}/* Custom CSS Mobile */@media (max-width: 549px){.nav-tabs+.tab-panels {padding:3px} .quantity.buttons_added.form-normal , button.single_add_to_cart_button.button.alt {font-size:1em} button.button.buy_now_button{width:unset !important;font-size:1em} .woocommerce-product-builder-table img{width:60%} /***AdtoCart và Mua Ngay**/ button.button.buy_now_button{padding:0 0.5em !important;} .accordion-title.active, .has-icon-bg .icon .icon-inner, .logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a, .nav-outline >li.active > a, .cart-icon strong, [data-color=\'primary\'], .is-outline.primary {font-size:74%} .woopb-product-price {padding-right: 5px;} .woopb-product-price ins {display: block;} .woopb-product-price .woocommerce-Price-amount {margin-right: 0;} /***Hide Footer Social***/ .footer-widgets.footer.footer-2 #text-8{display:none}}</style>
+    <style id="custom-css" type="text/css">:root {--primary-color: #e4cc62;}.full-width .ubermenu-nav, .container, .row{max-width: 1250px}.row.row-collapse{max-width: 1220px}.row.row-small{max-width: 1242.5px}.row.row-large{max-width: 1280px}.header-main{height: 80px}#logo img{max-height: 80px}#logo{width:200px;}#logo a{max-width:200pxpx;}.header-bottom{min-height: 40px}.header-top{min-height: 30px}.transparent .header-main{height: 30px}.transparent #logo img{max-height: 30px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 80px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 79%;}.header-bg-color, .header-wrapper {background-color: rgba(255,255,255,0.9)}.header-bottom {background-color: #e4cc62}.header-main .nav > li > a{line-height: 16px }.stuck .header-main .nav > li > a{line-height: 50px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.nav-dropdown{font-size:100%}.header-top{background-color:#e3c56e!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #e4cc62;}/* Color !important */[data-text-color="primary"]{color: #e4cc62!important;}/* Background Color */[data-text-bg="primary"]{background-color: #e4cc62;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #e4cc62;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #e4cc62}.nav-tabs > li.active > a{border-top-color: #e4cc62}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #e4cc62 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #e4cc62 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #e4cc62;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#fa4d0f; }[data-text-bg="secondary"]{background-color: #fa4d0f;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #fa4d0f}/* Color !important */[data-text-color="secondary"]{color: #fa4d0f!important;}/* Border */.secondary.is-outline:hover{border-color:#fa4d0f}.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #228b22}.success-color, .success.is-link, .success.is-outline{color: #228b22;}.success-border{border-color: #228b22!important;}/* Color !important */[data-text-color="success"]{color: #228b22!important;}/* Background Color */[data-text-bg="success"]{background-color: #228b22;}.alert.is-underline:hover,.alert.is-outline:hover,.alert{background-color: #ff0000}.alert.is-link, .alert.is-outline, .color-alert{color: #ff0000;}/* Color !important */[data-text-color="alert"]{color: #ff0000!important;}/* Background Color */[data-text-bg="alert"]{background-color: #ff0000;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family:"-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif", sans-serif}body{font-weight: 0}body{color: #0a0a0a}.nav > li > a {font-family:"-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif", sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family:"-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif", sans-serif;}.nav > li > a {font-weight: 700;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}.alt-font{font-family: "-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif", sans-serif;}.alt-font{font-weight: 0!important;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #0a0a0a;}a{color: #0a0a0a;}a:hover{color: #fa4d0f;}.tagcloud a:hover{border-color: #fa4d0f;background-color: #fa4d0f;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 212px!important;width: 212px!important;}}.footer-1{background-color: #f6f6f6}.footer-2{background-color: #efefef}.absolute-footer, html{background-color: #000000}.page-title-small + main .product-container > .row{padding-top:0;}button[name='update_cart'] { display: none; }.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>
+    <style id="ot-mmm-custom-css" type="text/css">#ot-mega-menu #mega-menu-title {background-color: #775400;color: #ffffff;text-transform: none;}.home #ot-mega-menu .mega-menu-wrap {display: block;}#ot-mega-menu {width: 100%;}</style>
+    <style type="text/css">/** Mega Menu CSS: fs **/</style>
+    <noscript>
+        <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style>
+    </noscript>
 </head>
-<body>
-<div class="loader"></div>
-
-
-
-<div id="sticky-banner">
-    <div id="sticky-banner-target">
-        <div class="medium">
-            <a href="http://bit.ly/pc-gaming-tong-t9" target="_blank" class="left">
-            <a href="http://bit.ly/pc-gaming-tong-t9" target="_blank" class="right">
-        </div>
-
-
-        <div class="large">
-            <div class="left">
-
-            </div>
-            <a href="" target="_blank" class="right">
-        </div>
-    </div>
+<body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-6293 theme-flatsome woocommerce-no-js mega-menu-mega-menu yith-wcbm-theme-flatsome lightbox nav-dropdown-has-arrow parallax-mobile mobile-submenu-slide mobile-submenu-slide-levels-2 mobile-submenu-toggle ot-mega-menu-body ot-show-in-home ot-menu-hover">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div id="wrapper">
+    @include('frontend.layouts.header')
+    @yield('content')
+    @include('frontend.layouts.footer')
 </div>
 
-<a id="show-cart" class="hidden-lg hidden-md" href="cart.html">
-    <div class="number">0</div>
-    <i class="fa fa-shopping-cart fa-flip-horizontal"></i>
-</a>
-<div class="faded"></div>
-
-
-
-
-<div class="header">
-    <!--TOP BANNER SLIDER RANDOM-->
-    <div class="fix-xxx">
-
-        <div class="gearvn-top-banner-block ">
-
-
-            <a href="https://bit.ly/pc-gaming-tong-t9">
-                <div class="gearvn-top-banner"
-                     style="background:url('{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bn-top1f4ea.jpg?v=14250')}}') ,#000000;">
-                </div>
-            </a>
-            <a href="pages/corsair-official-store.html">
-                <div class="gearvn-top-banner"
-                     style="background:url('{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bn-top2f4ea.jpg?v=14250')}}') , #000000;">
-
-                </div>
-            </a>
-
-            <a href="products/razer-blackwidow.html">
-                <div class="gearvn-top-banner"
-                     style="background:url('{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bn-top3f4ea.jpg?v=14250')}}') ,#12171a;">
-
-                </div>
-            </a>
-
-
-            <a href="https://bit.ly/uu-dai-giam-gia-1tr">
-                <div class="gearvn-top-banner"
-                     style="background:url('{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/bn-top4f4ea.jpg?v=14250')}}') ,#000000;">
-
-                </div>
-            </a>
-        </div>
-        <div class="headerxxx">
-            <div class="container gearvn-content-section">
-                <div class="row">
-
-                    <div class="left_header" style="z-index: 997;">
-                        <a href="{{route('home')}}" class="hidden-xsx logo-big">
-                            <img src="http://theme.hstatic.net/1000026716/1000440777/14/logo.svg?v=14250" title="GEARVN PC HIGH-END & GAMING GEAR" alt="gearvn">
-                        </a>
-                        <a href="index.html" class="hidden-sm hidden-md hidden-lg logo-small">
-                            <img id="logo-xxx" src="http://theme.hstatic.net/1000026716/1000440777/14/logo-icon-01.svg?v=14250">
-                        </a>
-                        <div class="sidebar-search hidden-md hidden-lg" style="flex: 1;margin-left: 15px;margin-right: 56px;">
-                            <div class="gearvn-search-block-mobile">
-                                <form class="search_bar" action="https://gearvn.com/search">
-
-                                    <input type="text" name="q" placeholder="Nhập mã hoặc tên sản phẩm" style="width: 92%;">
-                                    <button type="submit" value="Search">Search</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="right_header">
-                        <div class=" pd5 fl1 ">
-                            <div id="search">
-                                <div class="search">
-                                    <form id="searchbox" class="popup-content ultimate-search" action="https://gearvn.com/search" method="get" role="search">
-                                        <input name="q" type="text" placeholder="Nhập mã hoặc tên sản phẩm..." class="inputbox search-query"/>
-                                        <button type="submit" class="btn-search btn btn-link"><span class="fa fa-search" aria-hidden="true"></span></button>
-
-                                        <input type="hidden" class="collection_id" value="(collectionid:product>=0)" />
-                                        <input type="hidden" class="collection_handle" value="all" />
-                                        <input type="hidden" class="collection_name" value="all" />
-                                    </form>
-                                </div>
-
-
-
-
-                                <style>
-                                    .smart-search-wrapper>a.thumbs{
-                                        width: 80px;
-                                        display: inline-block;
-                                        padding: 0px;
-                                    }
-                                    .smart-search-wrapper>a.thumbs img {
-                                        position: absolute;
-                                        top: 0px;
-                                        width: 80px;
-                                        height: 80px;
-                                        left: 0px;
-                                    }
-                                    .smart-search-wrapper{
-                                        left: 316.1px;
-                                        position: fixed;
-                                        background: #fff;
-                                        /*border: 1px solid rgb(215, 215, 215);*/
-                                        border-top: none;
-                                        z-index: 9999;
-                                    }
-
-                                    .smart-search-wrapper>a {
-                                        width: calc(100% - 80px);
-                                        float: left;
-                                        color: #686767;
-                                        text-decoration: none;
-                                        line-height: 29px;
-                                        font-size: 13px;
-                                        font-family: sans-serif;
-                                        padding: 5px 80px 5px 5px;
-                                        position: relative;
-                                        height: 80px;
-                                        line-height: 20px;
-                                        padding-top: 20px;
-                                    }
-
-                                    .smart-search-wrapper>a.select, .smart-search-wrapper>a:hover {
-                                        background: -webkit-linear-gradient(left, #fff,#EAEAEA); /* For Safari 5.1 to 6.0 */
-                                        background: -o-linear-gradient(left, #fff,#EAEAEA); /* For Opera 11.1 to 12.0 */
-                                        background: -moz-linear-gradient(left, #fff,#EAEAEA ); /* For Firefox 3.6 to 15 */
-                                        background: linear-gradient(left, #fff,#EAEAEA ); /* Standard syntax (must be last) */
-                                        color: #000;
-                                    }
-
-                                    .smart-search-wrapper>a>span.price-search {
-                                        position: absolute;
-                                        right: 5px;
-                                        top: 30px;
-                                        color: #D42424;
-                                        font-size: 15px;
-                                    }
-
-
-                                </style>
-                            </div>
-                        </div>
-                        <div class=" pdl0 fl1 ">
-                            <div class="gearvn-right-top-block">
-
-
-
-
-
-                                <a class="gearvn-header-top-item" href="account/register.html">
-                                    <img src="{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/ak1f4ea.png?v=14250')}}">
-                                    <div class="header-right-description">
-                                        <div class="gearvn-text">Đăng ký</div>
-                                    </div>
-                                </a>
-                                <a class="gearvn-header-top-item" href="account/login.html">
-                                    <img src="{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/ak3f4ea.png?v=14250')}}">
-
-                                    <div class="header-right-description">
-                                        <div class="gearvn-text">Đăng nhập</div>
-                                    </div>
-                                </a>
-
-
-
-
-                                <a class="gearvn-header-top-item" href="pages/khuyenmaigaminggear.html">
-                                    <img src="{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/ak4f4ea.png?v=14250')}}">
-
-                                    <div class="header-right-description">
-                                        <div class="gearvn-text">khuyến mãi</div>
-                                    </div>
-                                </a>
-
-                                <a class="gearvn-header-top-item rela" href="cart.html">
-                                    <div class="number">0</div>
-                                    <img src="{{asset('public/frontend/css/theme.hstatic.net/1000026716/1000440777/14/ak5f4ea.png?v=14250')}}">
-                                    <div class="header-right-description">
-                                        <div class="gearvn-text">giỏ hàng </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-
-
-
-
-
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-
-        <div class="gearvn-content-section padding-10-0 hidden-xs hidden-sm container">
-            <div class="content-flex top-header-bar">
-                <span class="style-nav-fix hidden"><i class="fa fa-bars"></i> Danh mục  phẩm</span>
-                <div class="fixed-nav">
-                    <span class="fixed-menu style-nav-fix "><i class="fa fa-bars"></i> Danh mục sản phẩm</span>
-                    <!--MENU LEFT-->
-                    <!--<span class="click-list"><i class="fa fa-bars"></i> Danh mục sản phẩm</span>-->
-                    <div class="gearvn-header-menu freez">
-                        <div class="cat-menu gearvn-cat-menu">
-
-                            <nav id="megamenu-nav-freez" class="megamenu-nav">
-                                <ol class="megamenu-nav-primary responsive" id="megamenu-nav-main-2">
-
-
-
-
-
-
-
-                                </ol>
-                            </nav>
-                        </div>
-                    </div>
-
-
-
-                    <!--MENU LEFT-->
-                </div>
-
-
-            </div>
-        </div>
-    </div>
-
-
-
-@yield('content')
-    <!--footer-->
-    <div id="footer">
-        <div class="container">
-            <div id="user1" class="col-sm-4 col-xs-12">
-                <div class="moduletable">
-                    <!--<h3>GEARVN.COM - HI-END PC & GAMING GEAR</h3> -->
-                    <h3>Công ty TNHH công nghệ GEARVN </h3>
-                    <div class="custom"  >
-                        <h3 class="title-footer-2">	Email: cskh@gearvn.com<br/></h3>
-                        <p style="font-size: 14px">
-                            <b>HỆ THỐNG TỔNG ĐÀI:</b> (Làm việc từ 8h30 - 20h30)<br/>
-                        <table style="width: 296px;">
-                            <tbody>
-                            <tr>
-                                <td style="width: 211px;">Gọi mua h&agrave;ng</td>
-                                <td style="width: 105px;"><strong>1800 6975</strong></td>
-                            </tr>
-                            <tr>
-                                <td style="width: 211px;">Gọi CSKH &amp; Khiếu nại</td>
-                                <td style="width: 105px;"><strong>1800 6173</strong></td>
-                            </tr>
-                            <tr>
-                                <td style="width: 211px;">Gọi bảo hành & kỹ thuật</td>
-                                <td style="width: 105px;"><strong>1800 6274</strong></td>
-                            </tr>
-                            <tr>
-                                <td style="width: 211px;">Tuyển dụng</td>
-                                <td style="width: 105px;"><strong>1800 6147</strong></td>
-                            </tr>
-                            </tbody>
-                        </table>
-
-                        <br/>
-                        <a href="pages/chinh-sach-bao-mat.html" style="font-size: 16px; color: #0655a6; font-weight: bold;">Chính sách bảo mật và hình thức thanh toán</a>
-                    </div>
-                    <h3 class="title-footer-2"></h3>
-                    <ul class="menu-footer">
-
-                    </ul>
-                    <a href="http://online.gov.vn/Home/WebDetails/52792" rel="nofollow">
-                        <img src="css/theme.hstatic.net/1000026716/1000422677/14/20150827110756-dathongbao.png" style="max-width: 300px;" />
-                    </a>
-
-                </div>
-            </div>
-            <div id="user2" class="col-sm-5 col-xs-12">
-                <div class="moduletable">
-                    <a href="pages/he-thong-showroom-gvn.html">
-                        <p style="font-size: 16px; display: inline">
-                            <b>HỆ THỐNG CỬA HÀNG:</b>
-                        </p>
-                    </a>
-                    <p style="display: inline"> (Làm việc từ 8h30 - 20h30)
-                    </p>
-                    <br/>
-
-                    <p style="font-size: 14px; padding-top: 4px">
-                        <b>SHOWROOM HCM</b> <br/>
-                        - Địa chỉ: 78-80-82 Hoàng Hoa Thám, Phường 12, Quận Tân Bình.
-                        <br/> <b>SHOWROOM HN </b><br/>
-                        - Địa chỉ : 37 Ngõ 121 Thái Hà, Phường Trung Liệt, Quận Đống Đa.<br/>
-                        Mua <a href="collections/gaming-pc-gearvn.html">PC Gaming</a>, <a href="collections/laptop.html">laptop</a>, <a href="collections/vga-card-man-hinh.html">card màn hình</a>, thiết bị chơi game hàng đầu Việt Nam bảo hành chính hãng. Mua online nhận nhiều ưu đãi hấp dẫn.<br/>
-                    </p>
-                    <ul class="menu fix-menu">
-
-                    </ul>
-
-                </div>
-            </div>
-            <div id="user3" class="col-sm-3 col-xs-12">
-                <div class="moduletable">
-                    <h3>Fanpage</h3>
-
-
-                    <div class="face-content">
-                        <div class="fb-like-box small--hide" data-href="https://www.facebook.com/gearvnhcm/" data-height="375" data-colorscheme="dark" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="clr"></div>
-
-        </div>
-    </div>
-
-
-    <a class="scrollup" href="#">Scroll</a>
-    @yield('javascript')
+<script src="{{asset('public/vendors/jquery/dist/jquery.min.js')}}"></script>
+@yield('javascript')
 </body>
-
+<!-- Mirrored from tandoanh.vn/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 02 Sep 2020 18:44:06 GMT -->
 </html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1599072207 -->
